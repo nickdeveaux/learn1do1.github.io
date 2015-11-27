@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Sorting"
 date:   2015-11-14 16:52:07
 categories: jekyll update
 tags: jekyll update
-image: /images/pic02.jpg
+image: 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Let's talk about sorting algorithms:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* selection sort
+* insertion sort
+* quick sort
+* bubble sort
 
 Jekyll also offers powerful support for code snippets:
 
