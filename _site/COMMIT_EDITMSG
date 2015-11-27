@@ -1,0 +1,34 @@
+hello world jekyll commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    occam <learn1do1@mail.com>
+# Date:      Fri Nov 27 17:59:31 2015 -0500
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   _config.yml
+#	new file:   _includes/footer.html
+#	new file:   _includes/head.html
+#	new file:   _includes/header.html
+#	new file:   _includes/icon-github.html
+#	new file:   _includes/icon-github.svg
+#	new file:   _includes/icon-twitter.html
+#	new file:   _includes/icon-twitter.svg
+#	new file:   _layouts/default.html
+#	new file:   _layouts/page.html
+#	new file:   _layouts/post.html
+#	new file:   _posts/2015-11-27-welcome-to-jekyll.markdown
+#	new file:   _sass/_base.scss
+#	new file:   _sass/_layout.scss
+#	new file:   _sass/_syntax-highlighting.scss
+#	new file:   about.md
+#	new file:   css/main.scss
+#	new file:   feed.xml
+#	new file:   index.html
+#
